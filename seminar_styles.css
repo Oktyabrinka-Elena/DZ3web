@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 218, 198); 
+ }
+ 
+ body {
+     color: rgb(9, 14, 14);
+     font: 90% Roboto, Arial, sans-serif;
+     font-weight: 300;
+     padding: 5px 20px;
+ }
+ 
+ p {
+     padding: 5px 15px;
+     margin: 0;
+     line-height: 1.8;
+     color: black;
+     font-size: 12pt
+ }
+ 
+ ul li {
+     padding-right: 10px;
+     line-height: 1.6;
+ }
+ 
+ h1 {
+         margin: 1;
+     color: blueviolet;
+ }
+ 
+ h2 {
+     margin: 0;
+     color: rgb(226, 43, 159);
+     font-size: 16pt
+ }
+ 
+ h3 {
+     margin: 0;
+     color: rgb(55, 43, 226);
+ }
